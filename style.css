@@ -35,3 +35,13 @@ body {
   text-shadow: 0rem 0rem 30rem #000000;
   font-size: 500%;
 }
+.btn {
+  border-radius: 0.9rem;
+  font-family: "Oswald", sans-serif;
+  color: #036ab1;
+  font-size: 135%;
+  padding: 1rem 2rem;
+  border: solid #036ab1 0.3rem;
+  text-transform: uppercase;
+  text-decoration: none;
+}
