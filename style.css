@@ -26,3 +26,8 @@ body {
   width: 100%;
   max-width: none;
 }
+.content {
+  max-width: 50rem;
+  margin: 0 auto;
+  text-align: center;
+}
