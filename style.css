@@ -1,15 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway");
 @import url("https://fonts.googleapis.com/css?family=Oswald");
 
-html {
-  font-size: 10px;
-}
 html,
 body {
   margin: 0;
   padding: 0;
   height: 100%;
   width: 100%;
+  font-size: 10px;
 }
 .intro {
   height: 100%;
@@ -30,4 +28,10 @@ body {
   max-width: 50rem;
   margin: 0 auto;
   text-align: center;
+}
+.content h1 {
+  font-family: "Raleway", sans-serif;
+  color: #f0f0f0;
+  text-shadow: 0rem 0rem 30rem #000000;
+  font-size: 500%;
 }
