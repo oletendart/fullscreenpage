@@ -56,3 +56,16 @@ p {
   margin: 3%;
   font-family: sans-serif;
 }
+@media screen and (max-width: 768px) {
+  .content h1 {
+    font-size: 250%;
+  }
+  .btn {
+    font-size: 110%;
+    padding: 0.7rem 1.5rem;
+  }
+  p {
+    font-size: 100%;
+    line-height: 160%;
+  }
+}
